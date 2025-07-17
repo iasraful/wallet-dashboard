@@ -41,7 +41,7 @@ Make sure you have the following installed:
     Start by cloning the project files from GitHub to your local machine using the following command:
 
     ```bash
-    git clone [https://github.com/iasraful/wallet-dashboard.git]
+    git clone https://github.com/iasraful/wallet-dashboard.git
     ```
 
     After cloning, navigate into the project directory:
