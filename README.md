@@ -83,7 +83,7 @@ Make sure you have the following installed:
 
     The application will now be running. Open your web browser and navigate to the following address to access the Wallet Dashboard:
 
-    [http://localhost:3000](http://localhost:3000)
+    [http://localhost:3000/login](http://localhost:3000/login)
 
     You should see the login page.
 
