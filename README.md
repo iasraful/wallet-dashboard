@@ -3,7 +3,14 @@
 A modern, responsive wallet dashboard application built with Next.js, featuring user authentication, balance tracking, transaction history, and dark mode support.
 
 ![Wallet Dashboard](https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=1200&h=600&q=80)
+---
 
+## 📺 Demo Video
+
+Want to see it in action?  
+▶️ **Watch the live walkthrough on YouTube**: [https://youtu.be/Gc2BFxB2vJI](https://youtu.be/Gc2BFxB2vJI)
+
+---
 ## ✨ Features
 
 ### 🔐 Authentication
@@ -41,7 +48,7 @@ Make sure you have the following installed:
     Start by cloning the project files from GitHub to your local machine using the following command:
 
     ```bash
-    git clone https://github.com/iasraful/wallet-dashboard.git
+    git clone [https://github.com/iasraful/wallet-dashboard.git](https://github.com/iasraful/wallet-dashboard.git)
     ```
 
     After cloning, navigate into the project directory:
@@ -163,4 +170,4 @@ npm start
 📱 Phone: +880 1642-297037
 
 **Happy coding! 🚀**
- 
+
