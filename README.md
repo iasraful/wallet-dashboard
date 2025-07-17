@@ -48,13 +48,14 @@ Make sure you have the following installed:
     Start by cloning the project files from GitHub to your local machine using the following command:
 
     ```bash
-    git clone [https://github.com/iasraful/wallet-dashboard.git](https://github.com/iasraful/wallet-dashboard.git)
+    git clone https://github.com/iasraful/wallet-dashboard.git
     ```
 
     After cloning, navigate into the project directory:
 
     ```bash
     cd wallet-dashboard
+
     ```
 
 2.  **Install Core Dependencies**
@@ -63,33 +64,22 @@ Make sure you have the following installed:
 
     ```bash
     npm install
-    # Or, if you prefer yarn:
-    # yarn install
+
     ```
 
-3.  **Install Theme Dependency**
 
-    This project utilizes `next-themes` for seamless light/dark mode functionality. Install it as an additional dependency:
-
-    ```bash
-    npm install next-themes
-    # Or, if you prefer yarn:
-    # yarn add next-themes
-    ```
-
-4.  **Run the Development Server**
+3.  **Run the Development Server**
 
     After all dependencies are successfully installed, you can start the development server:
 
     ```bash
     npm run dev
-    # Or, if you prefer yarn:
-    # yarn dev
+  
     ```
 
     This command will compile the project and make it accessible locally.
 
-5.  **Open in Browser**
+4.  **Open in Browser**
 
     The application will now be running. Open your web browser and navigate to the following address to access the Wallet Dashboard:
 
